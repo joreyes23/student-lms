@@ -1,0 +1,12 @@
+# build artifacts
+backend/build/
+backend/build/*
+build/
+
+# config secrets
+backend/config.json
+
+# editor junk
+*.o
+*.swp
+*.log
